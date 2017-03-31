@@ -1,4 +1,6 @@
 # Mini Projects
 A bunch of random stuff I made a long while ago.
 
-TODO: Add more description-y stuff.
+Run all of them in fullscreen (right-click title bar and change resolution).
+
+Only runs on windows (obviously).
