@@ -1,3 +1,6 @@
+
+**Run these programs at your own risk, they can cause epilectic attacks. I do not take any responsibilty for any damage or injury that these programs may cause to you, a bystander, or even your device for that matter.**
+
 # Mini Projects
 A bunch of random stuff I made a long while ago.
 
@@ -14,5 +17,3 @@ For maximun effect:
    * Width: Your choice, but keep it under 170 (Screen Buffer Size Width)
    * Height: Your choice, no strict restrictions
 6. Click on OK, and enjoy (don't maximize, it causes a static line of numbers to be displayed on the bottom)
-
-**Run these programs at your own risk, they can cause epilectic attacks. I do not take any responsibilty for any damage or injury that these programs may cause toy yo, a bystander, or even your device for that matter.**
